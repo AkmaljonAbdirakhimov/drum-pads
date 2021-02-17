@@ -1,0 +1,36 @@
+1)  background: #08f7fe;
+    box-shadow: 0 0 10px 2px #08f7fe,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+2)  background: #f5d300;
+    box-shadow: 0 0 10px 2px #f5d300,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+3)  background: #fe53bb;
+    box-shadow: 0 0 10px 2px #fe53bb,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+4)  background: #7122fa;
+    box-shadow: 0 0 10px 2px #7122fa,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+5)  background: #13ca91;
+    box-shadow: 0 0 10px 2px #13ca91,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+6)  background: #3b55ce;
+    box-shadow: 0 0 10px 2px #3b55ce,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+7)  background: #db0909;
+    box-shadow: 0 0 10px 2px #db0909,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+8)  background: #3cb9fc;
+    box-shadow: 0 0 10px 2px #3cb9fc,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
+9)  background: #09fbd3;
+    box-shadow: 0 0 10px 2px #09fbd3,
+        0.5rem 0.5rem 30px mix(black, #26115a, 50%);
+
